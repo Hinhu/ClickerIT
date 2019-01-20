@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/ClickerIt/precache-manifest.18f3bdbc8a901e77789ecd1e2d48b2e1.js"
+  "/ClickerIT/precache-manifest.88604e5c849af53f8a2bf056fc553d16.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/ClickerIt/index.html", {
+workbox.routing.registerNavigationRoute("/ClickerIT/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
