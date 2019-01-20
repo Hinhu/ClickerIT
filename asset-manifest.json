@@ -1,13 +1,13 @@
 {
-  "main.css": "/ClickerIt/static/css/main.102b5622.chunk.css",
-  "main.js": "/ClickerIt/static/js/main.d1d990af.chunk.js",
-  "main.js.map": "/ClickerIt/static/js/main.d1d990af.chunk.js.map",
-  "static/js/1.4a34e45d.chunk.js": "/ClickerIt/static/js/1.4a34e45d.chunk.js",
-  "static/js/1.4a34e45d.chunk.js.map": "/ClickerIt/static/js/1.4a34e45d.chunk.js.map",
+  "main.css": "/ClickerIt/static/css/main.15930594.chunk.css",
+  "main.js": "/ClickerIt/static/js/main.764b0985.chunk.js",
+  "main.js.map": "/ClickerIt/static/js/main.764b0985.chunk.js.map",
+  "static/js/1.42aa0d16.chunk.js": "/ClickerIt/static/js/1.42aa0d16.chunk.js",
+  "static/js/1.42aa0d16.chunk.js.map": "/ClickerIt/static/js/1.42aa0d16.chunk.js.map",
   "runtime~main.js": "/ClickerIt/static/js/runtime~main.44f28d3b.js",
   "runtime~main.js.map": "/ClickerIt/static/js/runtime~main.44f28d3b.js.map",
-  "static/css/main.102b5622.chunk.css.map": "/ClickerIt/static/css/main.102b5622.chunk.css.map",
+  "static/css/main.15930594.chunk.css.map": "/ClickerIt/static/css/main.15930594.chunk.css.map",
   "index.html": "/ClickerIt/index.html",
-  "precache-manifest.bea2c681a7a8df97c94ef05069194a3d.js": "/ClickerIt/precache-manifest.bea2c681a7a8df97c94ef05069194a3d.js",
+  "precache-manifest.18f3bdbc8a901e77789ecd1e2d48b2e1.js": "/ClickerIt/precache-manifest.18f3bdbc8a901e77789ecd1e2d48b2e1.js",
   "service-worker.js": "/ClickerIt/service-worker.js"
 }
