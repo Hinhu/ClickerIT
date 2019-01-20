@@ -1,14 +1,14 @@
 {
-  "main.css": "/static/css/main.9bae880b.chunk.css",
-  "main.js": "/static/js/main.5bf4d8d6.chunk.js",
-  "main.js.map": "/static/js/main.5bf4d8d6.chunk.js.map",
-  "static/js/1.fa92c112.chunk.js": "/static/js/1.fa92c112.chunk.js",
-  "static/js/1.fa92c112.chunk.js.map": "/static/js/1.fa92c112.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.229c360f.js",
-  "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
-  "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg",
-  "static/css/main.9bae880b.chunk.css.map": "/static/css/main.9bae880b.chunk.css.map",
-  "index.html": "/index.html",
-  "precache-manifest.1747e7ff61eb17ce6712c61dee686cca.js": "/precache-manifest.1747e7ff61eb17ce6712c61dee686cca.js",
-  "service-worker.js": "/service-worker.js"
+  "main.css": "/ClickerIt/static/css/main.9bae880b.chunk.css",
+  "main.js": "/ClickerIt/static/js/main.c128164d.chunk.js",
+  "main.js.map": "/ClickerIt/static/js/main.c128164d.chunk.js.map",
+  "static/js/1.fa92c112.chunk.js": "/ClickerIt/static/js/1.fa92c112.chunk.js",
+  "static/js/1.fa92c112.chunk.js.map": "/ClickerIt/static/js/1.fa92c112.chunk.js.map",
+  "runtime~main.js": "/ClickerIt/static/js/runtime~main.44f28d3b.js",
+  "runtime~main.js.map": "/ClickerIt/static/js/runtime~main.44f28d3b.js.map",
+  "static/media/logo.svg": "/ClickerIt/static/media/logo.5d5d9eef.svg",
+  "static/css/main.9bae880b.chunk.css.map": "/ClickerIt/static/css/main.9bae880b.chunk.css.map",
+  "index.html": "/ClickerIt/index.html",
+  "precache-manifest.e167d32e70810fcd248fadb76e46a0e1.js": "/ClickerIt/precache-manifest.e167d32e70810fcd248fadb76e46a0e1.js",
+  "service-worker.js": "/ClickerIt/service-worker.js"
 }
