@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import IDEToolBar from './IDEToolBar.js';
+import Clicker from './Clicker.js';
 import Grid from '@material-ui/core/Grid';
 import './App.css';
 
@@ -14,6 +15,7 @@ class App extends Component {
           <Grid item md={3}>
           </Grid>
           <Grid item md={7}>
+            <Clicker/>
           </Grid>
           <Grid item md={2}>
           </Grid>
