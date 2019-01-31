@@ -7,7 +7,7 @@ class IDEToolBar extends Component {
     render() {
         return (
             <div >
-                <AppBar style={{ background: '#2b2727' }}>
+                <AppBar position="static" style={{ background: '#2b2727' }}>
                     <Toolbar>
                         <Typography variant="h6" color="inherit" >
                             IT Clicker
